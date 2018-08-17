@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos Estáticos", "Metodos Estáticos\Metodos Estáticos.csproj", "{60D48A73-9E47-4FF1-BF76-E6603AC2E5FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D48A73-9E47-4FF1-BF76-E6603AC2E5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D48A73-9E47-4FF1-BF76-E6603AC2E5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D48A73-9E47-4FF1-BF76-E6603AC2E5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D48A73-9E47-4FF1-BF76-E6603AC2E5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28805F90-6EE7-4B76-876B-39228D56BB3B}
+	EndGlobalSection
+EndGlobal
